@@ -1,0 +1,17 @@
+Language: Cpp
+BreakBeforeBraces: Custom
+BraceWrapping:
+  AfterControlStatement: false
+  AfterEnum: false
+  AfterFunction: false
+  AfterStruct: false
+  BeforeElse : false 
+
+SortIncludes: false
+IndentWidth: 4
+ColumnLimit: 120
+MaxEmptyLinesToKeep: 5
+SpacesBeforeTrailingComments: 5
+IndentCaseLabels: true
+AlignConsecutiveAssignments: true
+AlignConsecutiveDeclarations: true
